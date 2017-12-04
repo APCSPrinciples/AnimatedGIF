@@ -72,5 +72,5 @@ You can find out more details on the `gifAnimation` library at the sites that I 
 - [https://github.com/01010101/GifAnimation](https://github.com/01010101/GifAnimation)
 - [https://gist.github.com/jordanorelli/4992290](https://gist.github.com/jordanorelli/4992290)
 
-Thanks to [Jordan Orelli](https://github.com/jordanorelli) for creating the `gifAnimation` library and [01010101](https://github.com/01010101) for porting it to Processing 3.X.
+Thanks to [Jordan Orelli](https://github.com/jordanorelli) for creating the `gifAnimation` library, [01010101](https://github.com/01010101) for porting it to Processing 3.X and [Alexandre Villares](http://abav.lugaralgum.com/) for posting [how to use the GifAnimation library in Python mode](https://garoa.net.br/wiki/Oficina_de_GIFs_animados).
 
